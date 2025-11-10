@@ -1,20 +1,20 @@
 # Python Full Stack 
 
-# Project Details
+## Project Details
 - PROJECT TITLE      : Retail E-commerce
 
 ## 🚀 How to Run
 
-# Step 1: Navigate to the project directory
+### Step 1: Navigate to the project directory
 cd ecommerce
 
-# Step 2: Apply migrations
+### Step 2: Apply migrations
 python manage.py migrate
 
-# Step 3: Run the development server
+### Step 3: Run the development server
 python manage.py runserver
 
-# 📘 Project Description
+## 📘 Project Description
 
 Retail E-Commerce is a full-stack e-commerce web application built using Python Django.
 It provides a complete shopping experience for users and a management interface for administrators.
@@ -22,7 +22,7 @@ It provides a complete shopping experience for users and a management interface 
 The application allows users to browse products, add them to the cart, and place secure orders.
 The admin panel enables efficient management of products, orders, and overall site operations. 
 
-# Technologies Used
+## Technologies Used
 1. Python Django
 2. HTML
 3. CSS
